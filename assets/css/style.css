@@ -1,0 +1,12 @@
+
+/* CSS for Lightbox */
+.imggallery{
+    width: 100%;
+    height: 250px;
+    margin-bottom: 30px;
+}
+
+#gallery .glly {
+    position: relative;
+    float: left;
+}
